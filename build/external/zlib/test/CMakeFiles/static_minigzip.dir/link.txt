@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--dependency-file=CMakeFiles/static_minigzip.dir/link.d CMakeFiles/static_minigzip.dir/minigzip.c.o -o static_minigzip  ../libz.a

@@ -1,0 +1,14 @@
+[  4%] Built target zlibstatic
+[  7%] Built target SDL3_test
+[ 11%] Built target zlib
+[ 11%] Built target zlib_static_example
+[ 11%] Built target static_minigzip
+[ 11%] Built target infcover
+[ 12%] Built target zlib_static_example64
+[ 12%] Built target zlib_example
+[ 13%] Built target minigzip
+[ 98%] Built target SDL3-static
+[ 99%] Built target zlib_example64
+[ 99%] Building CXX object CMakeFiles/KittySWF.dir/src/main.cpp.o
+[ 99%] Building CXX object CMakeFiles/KittySWF.dir/src/core/swf/BitReaderSrc.cpp.o
+[ 99%] Building CXX object CMakeFiles/KittySWF.dir/src/core/swf/SWFFileSrc.cpp.o
